@@ -1,0 +1,12 @@
+D:\Demo\Harsha_Mart\core\bin\Debug\net6.0\core.deps.json
+D:\Demo\Harsha_Mart\core\bin\Debug\net6.0\core.dll
+D:\Demo\Harsha_Mart\core\bin\Debug\net6.0\core.pdb
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.csproj.AssemblyReference.cache
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.AssemblyInfoInputs.cache
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.AssemblyInfo.cs
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.csproj.CoreCompileInputs.cache
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.dll
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\refint\core.dll
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\core.pdb
+D:\Demo\Harsha_Mart\core\obj\Debug\net6.0\ref\core.dll
