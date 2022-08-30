@@ -4,14 +4,14 @@
     "D:\\Demo\\Harsha_Mart\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\Demo\\Harsha_Mart\\core\\core.csproj": {
+    "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Demo\\Harsha_Mart\\core\\core.csproj",
-        "projectName": "core",
-        "projectPath": "D:\\Demo\\Harsha_Mart\\core\\core.csproj",
+        "projectUniqueName": "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-        "outputPath": "D:\\Demo\\Harsha_Mart\\core\\obj\\",
+        "outputPath": "D:\\Demo\\Harsha_Mart\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -93,8 +93,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Demo\\Harsha_Mart\\core\\core.csproj": {
-                "projectPath": "D:\\Demo\\Harsha_Mart\\core\\core.csproj"
+              "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj": {
+                "projectPath": "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj"
               }
             }
           }

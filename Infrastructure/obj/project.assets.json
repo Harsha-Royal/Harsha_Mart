@@ -519,14 +519,14 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "core/1.0.0": {
+      "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/core.dll": {}
+          "bin/placeholder/Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/core.dll": {}
+          "bin/placeholder/Core.dll": {}
         }
       }
     }
@@ -1159,16 +1159,16 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "core/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
-      "path": "../core/core.csproj",
-      "msbuildProject": "../core/core.csproj"
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.8",
-      "core >= 1.0.0"
+      "Core >= 1.0.0",
+      "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.8"
     ]
   },
   "packageFolders": {
@@ -1204,8 +1204,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Demo\\Harsha_Mart\\core\\core.csproj": {
-              "projectPath": "D:\\Demo\\Harsha_Mart\\core\\core.csproj"
+            "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj": {
+              "projectPath": "D:\\Demo\\Harsha_Mart\\Core\\Core.csproj"
             }
           }
         }
