@@ -83,3 +83,6 @@ D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\core.dll
 D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\Infrastructure.dll
 D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\Infrastructure.pdb
 D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\core.pdb
+D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\API.staticwebassets.runtime.json
+D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\AutoMapper.dll
+D:\Demo\Harsha_Mart\api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

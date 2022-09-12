@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eO3mvr8/UUAkvSATmyrpCUWidaGjkwvJiiLUHC0zVPADMKtnY4tDv4gNy6b+tgw8SkCzRMnYFTx/Bb1Z8sZoSg==",
+  "dgSpecHash": "ePc6IIPLvweDwd5pAyR46pz+eMT0sBhObOVngVZnRjWsZg8IsFyLDYX/3pTfYULZcgHdr5NgTR4V0XwpQvjIWw==",
   "success": true,
   "projectFilePath": "D:\\Demo\\Harsha_Mart\\api\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\harsh\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\harsh\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\harsh\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\harsh\\.nuget\\packages\\microsoft.data.sqlite\\5.0.3\\microsoft.data.sqlite.5.0.3.nupkg.sha512",
     "C:\\Users\\harsh\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.8\\microsoft.data.sqlite.core.6.0.8.nupkg.sha512",
     "C:\\Users\\harsh\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
