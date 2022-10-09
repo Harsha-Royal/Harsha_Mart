@@ -690,22 +690,22 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
-      "Core/1.0.0": {
+      "core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "compile": {
-          "bin/placeholder/Core.dll": {}
+          "bin/placeholder/core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Core.dll": {}
+          "bin/placeholder/core.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "Core": "1.0.0",
-          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.8"
+          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.8",
+          "core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Infrastructure.dll": {}
@@ -1611,10 +1611,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Core/1.0.0": {
+    "core/1.0.0": {
       "type": "project",
-      "path": "../Core/Core.csproj",
-      "msbuildProject": "../Core/Core.csproj"
+      "path": "../core/core.csproj",
+      "msbuildProject": "../core/core.csproj"
     },
     "Infrastructure/1.0.0": {
       "type": "project",
