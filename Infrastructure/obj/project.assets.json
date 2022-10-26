@@ -1178,11 +1178,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Demo\\Harsha_Mart\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "C:\\Demo\\Harsha_Mart\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Demo\\Harsha_Mart\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "C:\\Demo\\Harsha_Mart\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\harsh\\.nuget\\packages\\",
-      "outputPath": "D:\\Demo\\Harsha_Mart\\Infrastructure\\obj\\",
+      "outputPath": "C:\\Demo\\Harsha_Mart\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1204,8 +1204,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Demo\\Harsha_Mart\\core\\core.csproj": {
-              "projectPath": "D:\\Demo\\Harsha_Mart\\core\\core.csproj"
+            "C:\\Demo\\Harsha_Mart\\core\\core.csproj": {
+              "projectPath": "C:\\Demo\\Harsha_Mart\\core\\core.csproj"
             }
           }
         }
